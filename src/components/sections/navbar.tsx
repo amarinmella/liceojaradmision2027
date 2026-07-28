@@ -55,7 +55,9 @@ export function Navbar() {
             </div>
 
             <a
-              href="#postula"
+              href="https://www.sistemadeadmisionescolar.cl/"
+              target="_blank"
+              rel="noopener noreferrer"
               className="rounded-full bg-gold hover:bg-gold-dark text-navy text-xs font-bold px-4 py-2.5 tracking-wide transition-colors"
             >
               POSTULA AHORA
