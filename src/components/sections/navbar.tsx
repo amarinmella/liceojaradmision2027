@@ -7,6 +7,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 const LINKS = [
   { href: '#historia', label: 'Historia' },
   { href: '#nosotros', label: 'Quiénes somos' },
+  { href: '#apoyo', label: 'Apoyo Estudiantil' },
   { href: '#especialidades', label: 'Especialidades TP' },
   { href: '#humanista', label: 'Científico-Humanista' },
   { href: '#diferenciales', label: 'Nuestro sello' },

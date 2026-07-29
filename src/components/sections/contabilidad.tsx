@@ -64,6 +64,14 @@ export function Contabilidad() {
             </div>
           </Reveal>
         </div>
+
+        <Reveal delay={0.2}>
+          <div className="rounded-2xl bg-gold px-6 py-5 text-center mt-6">
+            <p className="text-navy font-bold text-sm md:text-base">
+              Campo laboral: estudios contables, auditorías, departamentos de finanzas y empresas de todo tamaño
+            </p>
+          </div>
+        </Reveal>
       </div>
     </section>
   );

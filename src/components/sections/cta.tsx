@@ -27,9 +27,15 @@ export function CTA() {
             href="https://www.sistemadeadmisionescolar.cl/"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-block rounded-full bg-gold hover:bg-gold-dark text-navy font-bold text-sm tracking-wide px-8 py-4 transition-colors"
+            className="inline-block transition-opacity hover:opacity-80"
           >
-            POSTULA EN SISTEMADEADMISIONESCOLAR.CL
+            <Image
+              src="/sae-logo-blanco.png"
+              alt="Postula en Sistema de Admisión Escolar"
+              width={868}
+              height={373}
+              className="w-64 md:w-80 h-auto mx-auto"
+            />
           </a>
 
           <p className="text-blue-100/50 text-sm mt-12">

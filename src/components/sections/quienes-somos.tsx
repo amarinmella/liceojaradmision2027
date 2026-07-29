@@ -25,6 +25,7 @@ const TALLERES = [
   'Baby Fútbol',
   'Teatro',
   'Folclor',
+  'Artes Visuales',
 ];
 
 export function QuienesSomos() {
