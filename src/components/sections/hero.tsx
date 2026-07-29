@@ -40,7 +40,7 @@ export function Hero() {
             <div className="rounded-2xl overflow-hidden shadow-xl shadow-navy/20 aspect-video">
               <iframe
                 className="w-full h-full"
-                src="https://www.youtube.com/embed/8sHRvuzJouM"
+                src="https://www.youtube.com/embed/t3gl7Zn9ucE"
                 title="Video institucional Liceo Juan Antonio Ríos"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
